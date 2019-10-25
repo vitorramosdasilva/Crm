@@ -1,0 +1,16 @@
+C:\Users\_psTALENTFOUR\Documents\ProjetosWeb\CRM\WebApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\_psTALENTFOUR\Documents\ProjetosWeb\CRM\WebApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\_psTALENTFOUR\Documents\ProjetosWeb\CRM\WebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\_psTALENTFOUR\Documents\ProjetosWeb\CRM\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\_psTALENTFOUR\Documents\ProjetosWeb\CRM\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+C:\Users\_psTALENTFOUR\Documents\ProjetosWeb\CRM\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+C:\Users\_psTALENTFOUR\Documents\ProjetosWeb\CRM\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+C:\Users\_psTALENTFOUR\Documents\ProjetosWeb\CRM\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+C:\Users\_psTALENTFOUR\Documents\ProjetosWeb\CRM\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+C:\Users\_psTALENTFOUR\Documents\ProjetosWeb\CRM\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+C:\Users\_psTALENTFOUR\Documents\ProjetosWeb\CRM\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+C:\Users\_psTALENTFOUR\Documents\ProjetosWeb\CRM\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+C:\Users\_psTALENTFOUR\Documents\ProjetosWeb\CRM\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\_psTALENTFOUR\Documents\ProjetosWeb\CRM\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+C:\Users\_psTALENTFOUR\Documents\ProjetosWeb\CRM\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+C:\Users\_psTALENTFOUR\Documents\ProjetosWeb\CRM\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb
